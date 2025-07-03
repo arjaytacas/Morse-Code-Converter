@@ -31,7 +31,7 @@ MORSE_CODE_DICT: for conversion from text to Morse code
 REVERSE_MORSE_CODE_DICT: for conversion from Morse code to text
 
 Example morse_codes.py:
-``` python
+```python
 MORSE_CODE_DICT = {
     'A': '.-', 'B': '-...', 'C': '-.-.',
     'D': '-..', 'E': '.', 'F': '..-.',
@@ -56,7 +56,7 @@ Clone or download the repository.
 Make sure morse_codes.py is in the same directory as your main script.
 
 Run the program using Python:
-``` bash
+```bash
 python morse_converter_gui.py
 ```
 # 📝 Notes
