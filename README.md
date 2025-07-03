@@ -1,4 +1,4 @@
-Morse Code Converter (Tkinter GUI)
+# 🔠 Morse Code Converter (Tkinter GUI)
 A simple graphical user interface (GUI) application built with Python and Tkinter that allows users to convert English text to Morse code and revert Morse code back to English.
 
 📌 Features
