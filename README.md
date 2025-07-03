@@ -1,7 +1,7 @@
 # 🔠 Morse Code Converter (Tkinter GUI)
 A simple graphical user interface (GUI) application built with Python and Tkinter that allows users to convert English text to Morse code and revert Morse code back to English.
 
-# 📌 Features
+## 📌 Features
 ✅ Convert English text to Morse code
 
 ✅ Revert Morse code back to readable English text
@@ -19,7 +19,7 @@ A simple graphical user interface (GUI) application built with Python and Tkinte
 | Reverted Text: [Output]  |
 +--------------------------+
 ```
-# 📦 Requirements
+## 📦 Requirements
 Python 3.x
 
 Tkinter (usually comes with Python)
@@ -50,7 +50,7 @@ MORSE_CODE_DICT = {
 
 REVERSE_MORSE_CODE_DICT = {value: key for key, value in MORSE_CODE_DICT.items()}
 ```
-# 🚀 How to Run
+## 🚀 How to Run
 Clone or download the repository.
 
 Make sure morse_codes.py is in the same directory as your main script.
